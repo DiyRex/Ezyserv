@@ -1,4 +1,4 @@
-# Ezyserv v1.0.0
+# Ezyserv
 
 [![npm version](https://badge.fury.io/js/ezyserv.svg)](https://www.npmjs.com/package/ezyserv)
 
